@@ -6,4 +6,4 @@ Credits:https://www.computervision.zone/
 # **Outcome**
 ![](Images/Down.PNG)
 ![](Images/Middle.PNG)
-![](Images/tUp.PNG)
+![](Images/Up.PNG)
